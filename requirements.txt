@@ -1,0 +1,8 @@
+gradio 
+speechrecognition 
+langchain
+langchain-community
+huggingface_hub 
+langchain_huggingface 
+chromadb 
+pymupdf
